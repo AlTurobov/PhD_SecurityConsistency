@@ -6,3 +6,5 @@ USA. Comments on the data are available here: https://docs.google.com/spreadshee
 Sweden. Comments on the data are available here: https://docs.google.com/spreadsheets/d/1_98JHvHHPhcK1xCinH5_67x9lnKXe1HBcSsFENEl-UA/edit?usp=sharing
 
 Germany. Comments on the data are available here: https://docs.google.com/spreadsheets/d/1jI3nmKTRUYnx42-SrNSOOliGKfffXtDEBhgXT94UR4k/edit?usp=sharing
+
+France. Comments on the data are available here: https://docs.google.com/spreadsheets/d/1b30wF0r23BqnKjKUipgW9xAzaDYgVK4_5qbsZb6PdEg/edit?usp=sharing
